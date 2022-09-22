@@ -1,5 +1,5 @@
 Hii, I am Sanket Pawar.Currently I have completed by Mtech from NIT Nagpur in mechanical domain(2022).I am preparing Data Science from 1 year and
-I have completed three projects in machile learning and Natural Language Processing.I have completed my Bachlor of engineering from Sinhgad Institute 
+I have completed three projects in machine learning and Natural Language Processing.I have completed my Bachlor of engineering from Sinhgad Institute 
 of techlogy and Science,Pune.(2018)
 
 
